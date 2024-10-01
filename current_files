@@ -1,0 +1,20 @@
+total 152
+drwxr-xr-x  19 sina  staff    608 Oct  1 19:52 .
+drwxr-xr-x  19 sina  staff    608 Oct  1 19:44 ..
+-rw-r--r--@  1 sina  staff    136 Oct  1 19:44 source.cpp
+-rw-r--r--@  1 sina  staff   1042 Oct  1 19:52 old.o
+-rw-r--r--@  1 sina  staff   1072 Oct  1 19:44 LICENSE
+-rw-r--r--@  1 sina  staff    118 Oct  1 19:44 information.txt
+-rw-r--r--@  1 sina  staff     30 Oct  1 19:51 1727826714.object
+-rw-r--r--@  1 sina  staff    203 Oct  1 19:50 branch_data
+-rw-r--r--@  1 sina  staff      0 Oct  1 19:52 current_files
+-rw-r--r--   1 sina  staff  11912 Oct  1 19:44 PU-standard.png
+-rw-r--r--@  1 sina  staff    264 Oct  1 19:50 remote_data
+-rw-r--r--@  1 sina  staff  11301 Oct  1 19:44 README.md
+-rw-r--r--   1 sina  staff     28 Oct  1 19:44 data.dat
+-rw-r--r--@  1 sina  staff   1383 Oct  1 19:51 .gitignore
+-rw-r--r--@  1 sina  staff     34 Oct  1 19:51 1727826714.obj
+-rw-r--r--@  1 sina  staff     34 Oct  1 19:51 1727826714.o
+-rw-r--r--@  1 sina  staff    170 Oct  1 19:44 reset.sh
+drwxr-xr-x  14 sina  staff    448 Oct  1 19:52 .git
+-rw-r--r--@  1 sina  staff     58 Oct  1 19:44 source.py
