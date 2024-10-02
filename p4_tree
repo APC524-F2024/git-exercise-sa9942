@@ -1,0 +1,12 @@
+* 0d2b379 (origin/cpp, cpp) Add source.cpp
+| * 2661d69 (origin/python, python) Add calculation to source.py
+| * d16053a Add source.py
+|/  
+| * 2dd03a1 (HEAD -> main, origin/main, origin/HEAD) Answers from part 3
+| * 6f581cc Answers from part 2
+| * f827537 Remote exercise
+| * c5ab87c Add source.cpp, edit information.txt README.md
+| * b585d2f Add source.py and reset.sh
+|/  
+* c04829d Add miscellaneous files
+* 5d7f497 Initial commit
